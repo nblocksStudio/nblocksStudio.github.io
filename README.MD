@@ -1,7 +1,13 @@
 
 # nBlocksStudio: Introduction 
 The vast majority of embedded software development is done writing textual source code. Another paradigm exists, known as flow-based programming, in which function blocks are visually connected to compose the software design.
- ![fbp J.P. Morrisson](doc/picture1-flowbased-programming.png) 
+ </p>
+<p align="center">
+<img
+src="doc/fbp-01.JPG"
+width = 300
+/>
+</p>
 
 This approach is more intuitive, and facilitates IP demonstration and maintenance.
 
